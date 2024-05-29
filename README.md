@@ -1,3 +1,3 @@
 # Hello World
 
-This is my CV 
+This is my site!
